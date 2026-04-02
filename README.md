@@ -130,6 +130,10 @@ systemctl status gitlab-runner --no-pager
 sudo -u gitlab-runner gitlab-runner verify
 ```
 
+## Acknowledgments
+This work is partially supported by the following EU grants (most recent first):
+    EU Horizon Europe P2CODE 101093069.
+
 
 
 
